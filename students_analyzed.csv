@@ -1,12 +1,12 @@
-Student,Gender,StudyHours,Attendance,Math,English,Science,TotalScore,AverageScore,StudyGroup
-rawan,Female,5,92,90,86,89,265,88.33333333333333,more than 3 hours
-Ahmed,Male,3,90,85,78,88,251,83.66666666666667,3 hours or less
-Mona,Female,5,95,92,89,94,275,91.66666666666667,more than 3 hours
-Omar,Male,2,70,60,65,58,183,61.0,3 hours or less
-Sara,Female,6,98,96,94,97,287,95.66666666666667,more than 3 hours
-Ali,Male,1,60,45,55,50,150,50.0,3 hours or less
-Nour,Female,4,85,80,91,86,257,85.66666666666667,more than 3 hours
-Youssef,Male,3,75,72,68,74,214,71.33333333333333,3 hours or less
-Salma,Female,5,92,88,95,90,273,91.0,more than 3 hours
-Khaled,Male,2,65,55,60,62,177,59.0,3 hours or less
-Farah,Female,4,88,84,82,89,255,85.0,more than 3 hours
+Student,Gender,StudyHours,Attendance,Math,English,Science,TotalScore,AverageScore
+rawan,Female,5,92,90,86,89,265,88.33333333333333
+Ahmed,Male,3,90,85,78,88,251,83.66666666666667
+Mona,Female,5,95,92,89,94,275,91.66666666666667
+Omar,Male,2,70,60,65,58,183,61.0
+Sara,Female,6,98,96,94,97,287,95.66666666666667
+Ali,Male,1,60,45,55,50,150,50.0
+Nour,Female,4,85,80,91,86,257,85.66666666666667
+Youssef,Male,3,75,72,68,74,214,71.33333333333333
+Salma,Female,5,92,88,95,90,273,91.0
+Khaled,Male,2,65,55,60,62,177,59.0
+Farah,Female,4,88,84,82,89,255,85.0
